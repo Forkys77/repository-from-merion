@@ -1,0 +1,6 @@
+
+[staging_servers]
+linux1 ansible_host=192.168.1.82 ansible_user=zabbix ansible_ssh_private_key_file=/home/zabbix/.ssh/authorized_keys.pem
+
+
+  
